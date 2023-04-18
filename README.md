@@ -82,7 +82,7 @@ Usage
     ```
 ![Administration](https://github.com/ritikpatel17/DjangoArtistWorkAPI/blob/main/Images/Administration.png)
 
-![Artists Detail](./images/ArtistDetail.png)
+![Artists Detail](https://github.com/ritikpatel17/DjangoArtistWorkAPI/blob/main/Images/ArtistDetail.png)
 
-![Works Detail](./images/WorkDetail.png)
+![Works Detail](https://github.com/ritikpatel17/DjangoArtistWorkAPI/blob/main/Images/workDetail.png)
 
