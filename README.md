@@ -80,7 +80,7 @@ Usage
         "password": "rp123123"
     }
     ```
-![Administration](./images/Administration.png)
+![Administration](https://github.com/ritikpatel17/DjangoArtistWorkAPI/blob/main/Images/Administration.png)
 
 ![Artists Detail](./images/ArtistDetail.png)
 
